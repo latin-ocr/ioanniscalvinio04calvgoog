@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./ioanniscalvinio04calvgoog/ioanniscalvinio04calvgoog_0235.png"; bbox 0 0 5650 6759; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 735 2547 1995 3066">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 735 2547 1995 3066">
+     <span class='ocr_line' id='line_1_1' title="bbox 735 2547 1995 2751; baseline 0.002 -35"><span class='ocrx_word' id='word_1_1' title='bbox 735 2547 886 2717; x_wconf 85' lang='lat' dir='ltr'><strong>LA</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 951 2549 1285 2719; x_wconf 82' lang='lat' dir='ltr'>BIBLE</span> <span class='ocrx_word' id='word_1_3' title='bbox 1352 2552 1995 2751; x_wconf 78' lang='lat' dir='ltr'>FRANOAISE</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 1091 2928 1641 3066; baseline 0.005 -3"><span class='ocrx_word' id='word_1_4' title='bbox 1091 2930 1218 3063; x_wconf 82' lang='lat' dir='ltr'><strong>DE</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1275 2928 1641 3066; x_wconf 81' lang='lat' dir='ltr'><strong>OALVIN.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 2830 6756">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 2830 6756">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 2830 6756; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 0 0 2830 6756; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
